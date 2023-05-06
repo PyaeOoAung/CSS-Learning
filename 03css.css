@@ -1,0 +1,5 @@
+body{/*background: skyblue;*/}
+*{margin: 0;padding: 0;}
+.One{color: skyblue;
+font-size: 45px;}
+#divvy{width: 300px;height: 200px;background: rgb(100, 100, 100,0.5);}
